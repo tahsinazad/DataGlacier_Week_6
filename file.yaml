@@ -1,0 +1,9 @@
+f_type: csv
+f_name: kill_match_stats_final_0
+delimiter: ","
+columns:
+    - killed_by
+    - killer_name
+    - killer_place
+    - x_position
+    - y_position
